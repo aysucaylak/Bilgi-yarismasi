@@ -1,0 +1,11 @@
+C:\Users\aysuc\OneDrive\Masaüstü\C#\Bilgi-Yarismasi\Bilgi-Yarismasi\bin\Debug\Bilgi-Yarismasi.exe.config
+C:\Users\aysuc\OneDrive\Masaüstü\C#\Bilgi-Yarismasi\Bilgi-Yarismasi\bin\Debug\Bilgi-Yarismasi.exe
+C:\Users\aysuc\OneDrive\Masaüstü\C#\Bilgi-Yarismasi\Bilgi-Yarismasi\bin\Debug\Bilgi-Yarismasi.pdb
+C:\Users\aysuc\OneDrive\Masaüstü\C#\Bilgi-Yarismasi\Bilgi-Yarismasi\obj\Debug\Bilgi-Yarismasi.csproj.AssemblyReference.cache
+C:\Users\aysuc\OneDrive\Masaüstü\C#\Bilgi-Yarismasi\Bilgi-Yarismasi\obj\Debug\Bilgi-Yarismasi.csproj.SuggestedBindingRedirects.cache
+C:\Users\aysuc\OneDrive\Masaüstü\C#\Bilgi-Yarismasi\Bilgi-Yarismasi\obj\Debug\Bilgi_Yarismasi.Form1.resources
+C:\Users\aysuc\OneDrive\Masaüstü\C#\Bilgi-Yarismasi\Bilgi-Yarismasi\obj\Debug\Bilgi_Yarismasi.Properties.Resources.resources
+C:\Users\aysuc\OneDrive\Masaüstü\C#\Bilgi-Yarismasi\Bilgi-Yarismasi\obj\Debug\Bilgi-Yarismasi.csproj.GenerateResource.cache
+C:\Users\aysuc\OneDrive\Masaüstü\C#\Bilgi-Yarismasi\Bilgi-Yarismasi\obj\Debug\Bilgi-Yarismasi.csproj.CoreCompileInputs.cache
+C:\Users\aysuc\OneDrive\Masaüstü\C#\Bilgi-Yarismasi\Bilgi-Yarismasi\obj\Debug\Bilgi-Yarismasi.exe
+C:\Users\aysuc\OneDrive\Masaüstü\C#\Bilgi-Yarismasi\Bilgi-Yarismasi\obj\Debug\Bilgi-Yarismasi.pdb
